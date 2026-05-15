@@ -1,0 +1,12 @@
+C:\Users\hp\my-redis\target\debug\deps\tracing-e1ad249fffc32ec9.d: C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\lib.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\macros.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\dispatcher.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\field.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\instrument.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\level_filters.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\span.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\subscriber.rs
+
+C:\Users\hp\my-redis\target\debug\deps\libtracing-e1ad249fffc32ec9.rmeta: C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\lib.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\macros.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\dispatcher.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\field.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\instrument.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\level_filters.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\span.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\subscriber.rs
+
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\lib.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\macros.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\dispatcher.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\field.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\instrument.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\level_filters.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\span.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.44\src\subscriber.rs:

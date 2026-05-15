@@ -1,0 +1,13 @@
+C:\Users\hp\my-redis\target\debug\deps\ansi_term-cea8911f59b048b1.d: C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\lib.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\ansi.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\style.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\difference.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\display.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\write.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\windows.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\util.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\debug.rs
+
+C:\Users\hp\my-redis\target\debug\deps\libansi_term-cea8911f59b048b1.rmeta: C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\lib.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\ansi.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\style.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\difference.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\display.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\write.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\windows.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\util.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\debug.rs
+
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\lib.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\ansi.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\style.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\difference.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\display.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\write.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\windows.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\util.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ansi_term-0.12.1\src\debug.rs:

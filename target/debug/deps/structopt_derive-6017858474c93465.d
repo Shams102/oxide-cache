@@ -1,0 +1,10 @@
+C:\Users\hp\my-redis\target\debug\deps\structopt_derive-6017858474c93465.d: C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\lib.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\attrs.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\parse.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\spanned.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\ty.rs
+
+C:\Users\hp\my-redis\target\debug\deps\structopt_derive-6017858474c93465.dll: C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\lib.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\attrs.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\parse.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\spanned.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\ty.rs
+
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\lib.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\attrs.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\doc_comments.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\parse.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\spanned.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\structopt-derive-0.4.18\src\ty.rs:
