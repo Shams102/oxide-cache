@@ -207,13 +207,6 @@ The next planned improvements are:
 
 ---
 
-# Learning Resources
-
-* Tokio Tutorial
-* The Rust Programming Language Book
-* mini-redis example project
-
----
 
 # License
 
